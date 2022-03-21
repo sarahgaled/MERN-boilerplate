@@ -1,0 +1,5 @@
+{
+    "mongoURI":
+      "mongodb+srv://SJ:Alexander2019@mernplatecluster.xqjzu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+
